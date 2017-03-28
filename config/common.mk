@@ -128,6 +128,7 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     LiveLockScreenService \
     LockClock \
+    ThemeInterfacer \
     Trebuchet \
     WallpaperPicker \
     WeatherProvider
